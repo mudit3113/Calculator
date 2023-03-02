@@ -1,0 +1,28 @@
+#calculator{
+    width: 50%;
+    height:70%;
+    min-width: 300px;
+    min-height: 400px;
+    border: 2px solid  black;
+}
+
+#display-container{
+    font-size: 2.8rem;
+    color:blue;
+    width: 100%;
+    height: 20%;
+    border: 2px solid black;
+
+}
+
+.button{
+    width:20%;
+    height:20%;
+    display: inline-block;
+    border: 2px solid black;
+    font-size: 1.8rem;
+}
+
+.span-two{
+    width:41.5%;
+}
